@@ -1,0 +1,6 @@
+D:\Github\FileTool\JsonFormat\bin\Release\JsonFormat.exe.config
+D:\Github\FileTool\JsonFormat\bin\Release\JsonFormat.exe
+D:\Github\FileTool\JsonFormat\bin\Release\JsonFormat.pdb
+D:\Github\FileTool\JsonFormat\obj\Release\JsonFormat.csprojAssemblyReference.cache
+D:\Github\FileTool\JsonFormat\obj\Release\JsonFormat.exe
+D:\Github\FileTool\JsonFormat\obj\Release\JsonFormat.pdb

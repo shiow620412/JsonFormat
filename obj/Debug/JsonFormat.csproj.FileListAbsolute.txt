@@ -1,0 +1,13 @@
+D:\GitHub\FileTool\JsonFormat\bin\Debug\JsonFormat.exe.config
+D:\GitHub\FileTool\JsonFormat\bin\Debug\JsonFormat.exe
+D:\GitHub\FileTool\JsonFormat\bin\Debug\JsonFormat.pdb
+D:\GitHub\FileTool\JsonFormat\obj\Debug\JsonFormat.exe
+D:\GitHub\FileTool\JsonFormat\obj\Debug\JsonFormat.pdb
+C:\Users\platform\Desktop\JsonFormat\bin\Debug\JsonFormat.exe.config
+C:\Users\platform\Desktop\JsonFormat\bin\Debug\JsonFormat.exe
+C:\Users\platform\Desktop\JsonFormat\bin\Debug\JsonFormat.pdb
+C:\Users\platform\Desktop\JsonFormat\obj\Debug\JsonFormat.csprojAssemblyReference.cache
+C:\Users\platform\Desktop\JsonFormat\obj\Debug\JsonFormat.csproj.CoreCompileInputs.cache
+C:\Users\platform\Desktop\JsonFormat\obj\Debug\JsonFormat.exe
+C:\Users\platform\Desktop\JsonFormat\obj\Debug\JsonFormat.pdb
+D:\Github\FileTool\JsonFormat\obj\Debug\JsonFormat.csprojAssemblyReference.cache

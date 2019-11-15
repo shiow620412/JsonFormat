@@ -1,0 +1,30 @@
+[
+	{
+		"Content":"問題",
+		"Selection":
+		[
+			{
+				"Option":"1",
+				"Percent":60
+			},
+			{
+				"Option":"2",
+				"Percent":40
+			}
+		]
+	},
+	{
+		"Content":"問題",
+		"Selection":
+		[
+			{
+				"Option":"1",
+				"Percent":60
+			},
+			{
+				"Option":"2",
+				"Percent":40
+			}
+		]
+	}
+]
